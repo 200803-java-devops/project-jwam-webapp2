@@ -31,9 +31,9 @@ public class AppTest
     /**
      * Rigourous Test :-)
      */
-    public void testApp()
+    public void isGibmerFansite()
     {
-        assertTrue( true );
+        assertTrue( false );
     }
 
 }

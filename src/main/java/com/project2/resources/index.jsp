@@ -57,7 +57,7 @@
       <div class="col-md-8">
 
         <h1 class="my-4">GIMBER
-          <small>GIMBER!!!</small>
+          <small>sucks really bad!!!</small>
         </h1>
 
         <!-- Blog Post -->
